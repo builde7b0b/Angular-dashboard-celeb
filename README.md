@@ -1,5 +1,43 @@
 # Play
 
+## Description
+A Simple UI made in Angular using Typescript.
+
+
+
+
+
+## Demo
+<a href="https://www.loom.com/share/e778cbc9734b4d938039ec1ffcac93c1">
+    <p>Play - Boosie UI Demo - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e778cbc9734b4d938039ec1ffcac93c1-1686790028699-with-play.gif">
+  </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
 
 ## Development server
